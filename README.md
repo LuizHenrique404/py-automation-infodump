@@ -1,6 +1,6 @@
-# 🐍 Py Automation Infodump: O Guia do Automatizador Massa
+# 🐍 Py Automation Infodump
 
-Este repositório é uma coletânea de scripts desenvolvidos para automação em Python. Inclui manipulação bruta de arquivos até BOTs que interagem com o Windows e navegadores de forma humanizada.
+Este repositório é uma coletânea de scripts pessoais desenvolvidos para automação em Python. Inclui manipulação bruta de arquivos até BOTs que interagem com o Windows e navegadores de forma humanizada.
 
 ---
 
